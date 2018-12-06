@@ -15,7 +15,7 @@ Discription :
 7.	Polymorphism
 8.	Graphical interface
 
-So, all of the OOP concept i Used in this project.
+So, all of the OOP concept I Used in this project.
 
 Recourse: 
 1.	Computer

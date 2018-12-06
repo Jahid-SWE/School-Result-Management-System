@@ -1,4 +1,5 @@
 Project Title : School Result Management System.
+
 Purpose: “School Result Management System” It is my first project of Software Engineering as a student. In this project I have completely design and implementation. All kind of student and teacher can show result.
 
 Temporary: I make this project in my university life. When I was in five semesters then I started to make and at the last week of that semester I completed my project.
@@ -13,6 +14,7 @@ Discription :
 6.	Interface 
 7.	Polymorphism
 8.	Graphical interface
+
 So, all of the OOP concept i Use in this project.
 
 Recourse: 
